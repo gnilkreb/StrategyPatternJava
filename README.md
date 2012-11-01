@@ -1,0 +1,4 @@
+StrategyPatternJava
+===================
+
+strategy pattern example
